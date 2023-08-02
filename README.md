@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ezores&style=for-the-badge&color=brightgreen)
-<h1 align="center">Hi 👋, I'm Cycle</h1>
+<h1 align="center">Hi 👋, I'm draged</h1>
 <div align=left>
         <br>
         <p>
