@@ -15,7 +15,7 @@
             <li>💬 <b>Ask me about anything</b>: <a href="https://cyberengineer.tech/contact">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars and Bikes(🚗 | 🏍️), Coding(💻), and Basketball(🏀).</li>
-            <li>🤑 <b>Co-Founder at</b>: <a href="https://discord.gg/Y3KHyQWs">Hayvanat Bahçesi</a>.</li>
+            <li>🤑 <b>Co-Founder at</b>: <a href="ss">Yok</a>.</li>
         </ul>
     </div>
     <div align=center>
