@@ -1,21 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=ezores&style=for-the-badge&color=brightgreen)
-<h1 align="center">Hi 👋, I'm draged</h1>
+<h1 align="center">draged</h1>
 <div align=left>
         <br>
         <p>
             <strong>
                 ⚡Real OG<br>
-                👨🏻‍💻Schizophrenic Patient<br>
                 👨🏻‍🔧Interested about Social Engineering, Discord Apps and Malwares<br><br><br>
-               <br><br>
-            </strong>
-        </p>
-        <ul>
-            <li>💿 My website can be found: <a class="website" href= "https://e-z.bio/draged">Here</a>.</li>
-            <li>💬 <b>Ask me about anything</b>: <a href="https://cyberengineer.tech/contact">Here</a>.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Cars and Bikes(🚗 | 🏍️), Coding(💻), and Basketball(🏀).</li>
-            <li>🤑 <b>Co-Founder at</b>: <a href="ss">Yok</a>.</li>
+            <li>💿 My website can be found: <a class="website" href= "http://draged.xyz/?i=1">Here</a>.</li>
+            <li>💬 <b>Ask me about anything</b>: <a href="discord.com/users/749650122471768196">Here</a>.</li>
+            <li>0101010011011010110<b></a></li>
         </ul>
     </div>
     <div align=center>
@@ -32,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/dragedsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="draged.sh" height="30" width="40" /></a>
 <a  /></a>
-<a href="https://discord.gg/draged" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="draged" height="30" width="40" /></a>
+<a href="discord.com/users/749650122471768196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="draged" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
